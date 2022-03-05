@@ -20,7 +20,7 @@ var viewer = new Marzipano.Viewer(document.getElementById('pano'));
 
 // Create source.
 var source = Marzipano.ImageUrlSource.fromString(
-  "//image1.JPG"
+  "https://geoscriber.github.io/calapan/pano/image1/image1.html"
 );
 
 // Create geometry.
